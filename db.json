@@ -2,29 +2,28 @@
 	"data" :  [
 		{
 			"id": 1,
-			"date": "Desembre de 2023",
+			"date": "SOLSTICI D'HIVERN 2023",
 			"widthPhoto": 50,
 			
 			"news": [
 				{
 					"order": 1,
-						"category": "FELICITACIÓ",
+						"category": "BONES FESTES",
 						"url": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
 						"image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
 						"title": "Bones Festes",
-						"summary": "Aster, Agrupació Astronòmica de Barcelona us desitja Feliç solstici d'hivern i un bon any 2024 amb salut i cels nets.",
+						"summary": "",
 						"widthPhoto": 0
 		
 				},
 				{
 					"order": 2,
-					"category": "FELICITACIÓ",
+					"category": "BONES FESTES",
 					"url": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
 					"image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
-					"title": "Bones Festes",
-					"summary": "Aster, Agrupació Astronòmica de Barcelona us desitja Feliç solstici d'hivern i un bon any 2024 amb salut i cels nets.",
+					"title": "Aster, Agrupació Astronòmica de Barcelona us desitja Feliç solstici d'hivern i un bon any 2024 amb salut i cels nets.",
+					"summary": "",
 					"widthPhoto": 100
-	
 				}
 			]
 		},
