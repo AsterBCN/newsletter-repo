@@ -36,10 +36,10 @@
 				{
 					"order": 3,
 					"category": "COMUNICAT",
-					"url": "https://www.aster.cat/",
+					"url": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
 					"image": "https://res.cloudinary.com/db0me9nfi/image/upload/v1701283568/Aster/aster.png",
-					"title": "Aster - Acomiadament del 2023, sopar, trobada i benvinguda al 2024.",
-					"summary": "Tancarem l'any amb el tradicional sopar el 13 de desembre en un restaurant enfront de l'enyorada cúpula de la seu històrica d'Aster al Passeig de Gràcia, on lliurarem els premis del Concurs de Relats d'Astronomia i on sempre pot haver alguna sorpresa afegida.\n.",
+					"title": "Pruebas de Drive",
+					"summary": "Pruebas de Drive",
 					"widthPhoto": 60
 	
 				},
@@ -96,7 +96,7 @@
 				{
 					"order": 8,
 					"category": "EFEMÈRIDES",
-					"url": "https://dub07pap002files.storage.live.com/y4mSSDagzMIHmNoWwb2DdWjpVZmtyqYWy7b68sR90S7JeSyRai_fgRA1Zq_tIAlsqOrMNLFi6CQzSWNOQuqxY_obkr8CwNk77JAKba1zKN-npe_PIiDN3jMkrumz4ppPST94unEywZ0mKnrVAMrZVUkNW4H-aPyULuaxbAj3KHQBBoavzXRtAysIk0AZ_SDLp-fP8Haval1U8RZ2N3nY2cebQgjwBR3EB9bmb7AguFweYk?encodeFailures=1&width=1434&height=646",
+					"url": "https://dub07pap002files.storage.live.com/y4mSSDagzMIHmNoWwb2DdWjpVZmtyqYWy7b68sR90S7JeSyRai_fgRA1Zq_tIAlsqOrMNLFi6CQzSWNOQuqxY_obkr8CwNk77JAKba1zKN-npe_PIiDN3jMkrumz4ppPST94unEywZ0mKnrVAMrZVUkNW4H-aPyULuaxbAj3KHQBBoavzXRtAysIk0AZ_SDLp-fP8Haval1U8RZ2N3nY2cebQgjwBR3EB9bmb7AguFweY?FencodeFailures=1&width=1434&height=646",
 					"image": "https://dub07pap002files.storage.live.com/y4mSSDagzMIHmNoWwb2DdWjpVZmtyqYWy7b68sR90S7JeSyRai_fgRA1Zq_tIAlsqOrMNLFi6CQzSWNOQuqxY_obkr8CwNk77JAKba1zKN-npe_PIiDN3jMkrumz4ppPST94unEywZ0mKnrVAMrZVUkNW4H-aPyULuaxbAj3KHQBBoavzXRtAysIk0AZ_SDLp-fP8Haval1U8RZ2N3nY2cebQgjwBR3EB9bmb7AguFweYk?encodeFailures=1&width=1434&height=646",
 					"title": "Efemèrides",
 					"summary": "El proper 3 de gener, la Terra es trobarà a la mínima distància del Sol (periheli). Ens separaran 147 milions de quilòmetres.\nEl proper 18 de gener, la Lluna i Júpiter s'observaran molt pròxims des de la Terra (conjunció); en direcció sud, es trobaran entre les constel·lacions d'Àries i Cetus.",
@@ -116,6 +116,7 @@
 					"url": "https://www.ccma.cat/324/rebut-a-la-terra-per-primer-cop-un-missatge-per-laser-enviat-des-de-mes-enlla-de-la-lluna/noticia/3262398/",
 					
 					"image": "https://dub07pap002files.storage.live.com/y4mixICX74y-cgTr-E6mmMElDlELznfqjaepwaAnoHTUq-7l5F5YNOp2T3jvqHyatoIQMtkbH0NqU22S0otyTaM9ykuOBXLWtV1MFq-K8NzTWOyzCBHM3PupTT5g7sM4tX5ImpCHhgQxan7H5jamOTuFyIysPMrtNIDFte42MakrWoD7sVxSfnq3c8AG1eMV5d0IFuae8nXEolECqdMQGGwaaAOdd5KFQJFCkJ16IWuLyk?encodeFailures=1&width=1434&height=929",
+					"imaga": "https://dub07pap002files.storage.live.com/y4mSSDagzMIHmNoWwb2DdWjpVZmtyqYWy7b68sR90S7JeSyRai_fgRA1Zq_tIAlsqOrMNLFi6CQzSWNOQuqxY_obkr8CwNk77JAKba1zKN-npe_PIiDN3jMkrumz4ppPST94unEywZ0mKnrVAMrZVUkNW4H-aPyULuaxbAj3KHQBBoavzXRtAysIk0AZ_SDLp-fP8Haval1U8RZ2N3nY2cebQgjwBR3EB9bmb7AguFweYk?encodeFailures=1&width=1434&height=646",
 	
 					"title": "Rebut a la Terra per primer cop un missatge per làser enviat des de més enllà de la Lluna",
 					"summary": "El nou sistema de transmissió de dades assajat per la NASA permetria enviar imatges de més resolució, streaming de vídeo de més qualitat i més dades que ajudaria al gran objectiu de la humanitat: arribar a Mart.\nLa NASA acaba de superar una nova frontera en el camp de les comunicacions humanes: per primera vegada, un missatge transmès amb tecnologia òptica làser ha arribat exitosament a la Terra des de més enllà de la Lluna.",
