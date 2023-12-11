@@ -8,7 +8,7 @@
 			"news": [
 				{
 					"order": 1,
-						"category": "BONES FESTES",
+						"category": "Bones Festes",
 						"url": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
 						"image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
 						"title": "Bones Festes",
@@ -17,20 +17,20 @@
 				},
 				{
 					"order": 2,
-					"category": "BONES FESTES",
+					"category": "Bones Festes",
 					"url": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
 					"image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
-					"title": "Aster, Agrupació Astronòmica de Barcelona us desitja Feliç solstici d'hivern i un bon any 2024 amb salut i cels nets.",
+					"title": "Aster, Agrupació Astronòmica de Barcelona us desitja Feliç solstici d'hivern i un bon any 2024 amb salut i cels nets",
 					"summary": "",
 					"widthPhoto": 100
 				},
 				{
 					"order": 3,
-					"category": "COMUNICAT",
+					"category": "Comunicat",
 					"url": "https://www.aster.cat/news/ca_ES/2023/12/01/0002/calendari-2024",
 					"image": "https://lh3.googleusercontent.com/u/2/drive-viewer/AK7aPaAK56_H5mu-W41ADq3FrhzyyGIcTcgssmrh3cStIlDSc-t7-UW44Ad8vnrttisdxXiaSQQxtMNMFgtQjnZq74xk0-bW=w1912-h924",
 					"title": "Calendari d'Aster 2024",
-					"summary": "Benvolguts i benvolgudes.\nDir-vos que com és tradicional, tenim a la vostra disposició el bonic calendari del proper 2024, amb les corresponents fotografies astronòmiques, realitzades per els nostres socis, i els principals esdeveniments astronòmics de l'any, a cada un dels dotze mesos, al preu de 10€.\nPodeu sol·licitar-lo al nostre telèfon 934 514 488, i recollir-lo a la nostra seu, c/Viladomat 291, 6è pis, 08029 Barcelona, els dimarts i dijous de 19:00 a 21:00 hores.\nAprofitem l'ocasió per desitjar-vos felicitat en les properes festes tradicionals.\nSalutacions i cels clars.",
+					"summary": "Benvolguts i benvolgudes.\nDir-vos que com és tradicional, tenim a la vostra disposició el bonic calendari del proper 2024, amb les corresponents fotografies astronòmiques, realitzades per els nostres socis, i els principals esdeveniments astronòmics de l'any, a cada un dels dotze mesos, al preu de 10€.\nPodeu sol·licitar-lo al nostre telèfon 934514488, i recollir-lo a la nostra seu, c/Viladomat 291, 6è pis, 08029 Barcelona, els dimarts i dijous de 19:00 a 21:00 hores.\nAprofitem l'ocasió per desitjar-vos felicitat en les properes festes tradicionals.\nSalutacions i cels clars.",
 					"widthPhoto": 50
 				}
 			]
@@ -61,35 +61,17 @@
 				}
 			]
 		},{
-			"id": 4,
-			"date": "FEBRER 2024",
+			"id": -101,
+			"date": "Gener 2024",
 			"widthPhoto": 50,
 			
 			"news": [
 				{
-					"order": 5,
-					"category": "NOTICIES",
-					"url": "https://www.ccma.cat/324/detecten-larribada-a-la-terra-dun-poderos-raig-cosmic-que-vindria-duna-altra-galaxia/noticia/3262887/",
-					"image": "https://img.ccma.cat/multimedia/jpg/4/6/1700825929764_670x378.jpg",
-					"title": "Detecten l'arribada a la Terra d'un poderós raig còsmic que vindria d'una altra galàxia",
-					"summary": "Li han posat de nom Amaterasu, en honor a la deessa del Sol de la mitologia japonesa i, en seguir-ne la trajectòria, els ha dut a un espai buit més enllà de la Via Làctia.\nEl telescopi Array, situat a Utah, als Estats Units, ha detectat per segon cop a la seva història una partícula extremadament potent i misteriosa que es creu que ha aconseguit arribar a la Terra des de fora de la Via Làctia.",
-					"widthPhoto": 60
-				},
-				{
-					"order": 6,
-					"category": "NOTICIES",
-					"url": "https://monplaneta.cat/astronomia/descobreixen-diable-tasmania-nou-fenomen-estelar-87830/",
-					"image": "https://monplaneta.cat/app/uploads/sites/20/2023/11/captura-de-pantalla-2023-11-20-a-les-15.41.01-800x305.webp",
-					"title": "Descobreixen el 'Diable de Tasmània', un nou fenomen estelar",
-					"summary": "Una sèrie d'esclats energètics a 1.000 milions d'anys-llum ha cridat l'atenció dels astrònoms\nEl 'Diable de Tasmània' és com els astrònoms han anomenat un nou fenomen estelar que els ha cridat molt l'atenció i que és considerat un dels més estranys que s'han observat mai. Presentat en un article a la revista 'Nature', ha estat descobert gràcies a la detecció d'una sèrie d'esclats altament energètics que van tenir lloc a 1.000 milions d'anys-llum de la Terra.",
-					"widthPhoto": 60
-				},
-				{
-					"order": 7,
-					"category": "EFEMÈRIDES",
+					"order": 1,
+					"category": "Efemèrides",
 					"url": "#",
 					"image": "https://lh3.googleusercontent.com/u/2/drive-viewer/AK7aPaCyVZDyOc7TnJjyw3KG1slwkWWmeBn9KigBbalM5bozA0lcc99YUCxK86zDRM9I3zfCh0mHt5tj1_atCS-usQR9QsIJ=w1912-h924",
-					"title": "Efemèrides",
+					"title": "Gener 2024",
 					"summary": "El proper 3 de gener, la Terra es trobarà a la mínima distància del Sol (periheli). Ens separaran 147 milions de quilòmetres.\nEl proper 18 de gener, la Lluna i Júpiter s'observaran molt pròxims des de la Terra (conjunció); en direcció sud, es trobaran entre les constel·lacions d'Àries i Cetus.",
 					"widthPhoto": 60
 				}
