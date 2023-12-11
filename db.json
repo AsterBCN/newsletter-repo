@@ -94,23 +94,6 @@
 					"widthPhoto": 60
 				}
 			]
-		},{
-			"id": 5,
-			"date": "MARÇ 2024",
-			"widthPhoto": 50,
-			
-			"news": [
-
-				{
-					"order": 8,
-					"category": "EFEMÈRIDES",
-					"url": "https://dub07pap002files.storage.live.com/y4mSSDagzMIHmNoWwb2DdWjpVZmtyqYWy7b68sR90S7JeSyRai_fgRA1Zq_tIAlsqOrMNLFi6CQzSWNOQuqxY_obkr8CwNk77JAKba1zKN-npe_PIiDN3jMkrumz4ppPST94unEywZ0mKnrVAMrZVUkNW4H-aPyULuaxbAj3KHQBBoavzXRtAysIk0AZ_SDLp-fP8Haval1U8RZ2N3nY2cebQgjwBR3EB9bmb7AguFweY?FencodeFailures=1&width=1434&height=646",
-					"image": "https://dub07pap002files.storage.live.com/y4mSSDagzMIHmNoWwb2DdWjpVZmtyqYWy7b68sR90S7JeSyRai_fgRA1Zq_tIAlsqOrMNLFi6CQzSWNOQuqxY_obkr8CwNk77JAKba1zKN-npe_PIiDN3jMkrumz4ppPST94unEywZ0mKnrVAMrZVUkNW4H-aPyULuaxbAj3KHQBBoavzXRtAysIk0AZ_SDLp-fP8Haval1U8RZ2N3nY2cebQgjwBR3EB9bmb7AguFweYk?encodeFailures=1&width=1434&height=646",
-					"title": "Efemèrides",
-					"summary": "El proper 3 de gener, la Terra es trobarà a la mínima distància del Sol (periheli). Ens separaran 147 milions de quilòmetres.\nEl proper 18 de gener, la Lluna i Júpiter s'observaran molt pròxims des de la Terra (conjunció); en direcció sud, es trobaran entre les constel·lacions d'Àries i Cetus.",
-					"widthPhoto": 60
-				}
-			]
 		},
 		{
 			"id": 6,
