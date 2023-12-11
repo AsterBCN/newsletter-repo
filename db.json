@@ -42,18 +42,8 @@
 			
 			"news": [
 				{
-					"order": 3,
-					"category": "COMUNICAT",
-					"url": "https://drive.google.com/file/d/1TA7hHk_RyP74HB-7harW_nEuYw9cmDlK/view?usp=sharing",
-					"image": "https://res.cloudinary.com/db0me9nfi/image/upload/v1701283568/Aster/aster.png",
-					"title": "Pruebas de Drive",
-					"summary": "Pruebas de Drive",
-					"widthPhoto": 60
-	
-				},
-				{
 					"order": 4,
-					"category": "COMUNICAT",
+					"category": "NOTICIES",
 					"url": "https://res.cloudinary.com/db0me9nfi/image/upload/v1701283568/Aster/einstein.png",
 					"image": "https://res.cloudinary.com/db0me9nfi/image/upload/v1701530321/Aster/Einstein_100_any.jpg",
 					"title": "100 anys d'Einstein a Catalunya.",
@@ -92,6 +82,15 @@
 					"image": "https://monplaneta.cat/app/uploads/sites/20/2023/11/captura-de-pantalla-2023-11-20-a-les-15.41.01-800x305.webp",
 					"title": "Descobreixen el 'Diable de Tasmània', un nou fenomen estelar",
 					"summary": "Una sèrie d'esclats energètics a 1.000 milions d'anys-llum ha cridat l'atenció dels astrònoms\nEl 'Diable de Tasmània' és com els astrònoms han anomenat un nou fenomen estelar que els ha cridat molt l'atenció i que és considerat un dels més estranys que s'han observat mai. Presentat en un article a la revista 'Nature', ha estat descobert gràcies a la detecció d'una sèrie d'esclats altament energètics que van tenir lloc a 1.000 milions d'anys-llum de la Terra.",
+					"widthPhoto": 60
+				},
+				{
+					"order": 7,
+					"category": "EFEMÈRIDES",
+					"url": "https://dub07pap002files.storage.live.com/y4mSSDagzMIHmNoWwb2DdWjpVZmtyqYWy7b68sR90S7JeSyRai_fgRA1Zq_tIAlsqOrMNLFi6CQzSWNOQuqxY_obkr8CwNk77JAKba1zKN-npe_PIiDN3jMkrumz4ppPST94unEywZ0mKnrVAMrZVUkNW4H-aPyULuaxbAj3KHQBBoavzXRtAysIk0AZ_SDLp-fP8Haval1U8RZ2N3nY2cebQgjwBR3EB9bmb7AguFweY?FencodeFailures=1&width=1434&height=646",
+					"image": "https://dub07pap002files.storage.live.com/y4mSSDagzMIHmNoWwb2DdWjpVZmtyqYWy7b68sR90S7JeSyRai_fgRA1Zq_tIAlsqOrMNLFi6CQzSWNOQuqxY_obkr8CwNk77JAKba1zKN-npe_PIiDN3jMkrumz4ppPST94unEywZ0mKnrVAMrZVUkNW4H-aPyULuaxbAj3KHQBBoavzXRtAysIk0AZ_SDLp-fP8Haval1U8RZ2N3nY2cebQgjwBR3EB9bmb7AguFweYk?encodeFailures=1&width=1434&height=646",
+					"title": "Efemèrides",
+					"summary": "El proper 3 de gener, la Terra es trobarà a la mínima distància del Sol (periheli). Ens separaran 147 milions de quilòmetres.\nEl proper 18 de gener, la Lluna i Júpiter s'observaran molt pròxims des de la Terra (conjunció); en direcció sud, es trobaran entre les constel·lacions d'Àries i Cetus.",
 					"widthPhoto": 60
 				}
 			]
