@@ -58,7 +58,17 @@
 					"image": "https://res.cloudinary.com/db0me9nfi/image/upload/v1701530321/Aster/Einstein_100_any.jpg",
 					"title": "100 anys d'Einstein a Catalunya.",
 					"summary": "Amb motiu de la commemoració del centenari de la visita d'Einstein a Barcelona el febrer de 1923, la Secció de Ciències i Tecnologia (SECCT) .",
-					"widthPhoto": 60 				}
+					"widthPhoto": 60 				
+				},
+				{
+					"order": 5,
+					"category": "NOTICIES",
+					"url": "https://www.ccma.cat/324/detecten-larribada-a-la-terra-dun-poderos-raig-cosmic-que-vindria-duna-altra-galaxia/noticia/3262887/",
+					"image": "https://img.ccma.cat/multimedia/jpg/4/6/1700825929764_670x378.jpg",
+					"title": "Detecten l'arribada a la Terra d'un poderós raig còsmic que vindria d'una altra galàxia",
+					"summary": "Li han posat de nom Amaterasu, en honor a la deessa del Sol de la mitologia japonesa i, en seguir-ne la trajectòria, els ha dut a un espai buit més enllà de la Via Làctia.\nEl telescopi Array, situat a Utah, als Estats Units, ha detectat per segon cop a la seva història una partícula extremadament potent i misteriosa que es creu que ha aconseguit arribar a la Terra des de fora de la Via Làctia.",
+					"widthPhoto": 60
+				}
 			]
 		},{
 			"id": 4,
