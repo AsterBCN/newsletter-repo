@@ -100,16 +100,7 @@
 			"widthPhoto": 50,
 			
 			"news": [
-				{
-					"order": 7,
-					"category": "NOTICIES",
-					"url": "https://www.ccma.cat/324/rebut-a-la-terra-per-primer-cop-un-missatge-per-laser-enviat-des-de-mes-enlla-de-la-lluna/noticia/3262398/",
-					
-					"image": "https://img.ccma.cat/multimedia/jpg/8/5/1700656880158_670x378.jpg",
-					"title": "Rebut a la Terra per primer cop un missatge per làser enviat des de més enllà de la Lluna",
-					"summary": "El nou sistema de transmissió de dades assajat per la NASA permetria enviar imatges de més resolució, streaming de vídeo de més qualitat i més dades que ajudaria al gran objectiu de la humanitat: arribar a Mart.\nLa NASA acaba de superar una nova frontera en el camp de les comunicacions humanes: per primera vegada, un missatge transmès amb tecnologia òptica làser ha arribat exitosament a la Terra des de més enllà de la Lluna.",
-					"widthPhoto": 50
-				},
+
 				{
 					"order": 8,
 					"category": "EFEMÈRIDES",
