@@ -36,31 +36,6 @@
 			]
 		},
 		{
-			"id": -3,
-			"date": "GENER 2024",
-			"widthPhoto": 50,
-			
-			"news": [
-				{
-					"order": 4,
-					"category": "NOTICIES",
-					"url": "https://res.cloudinary.com/db0me9nfi/image/upload/v1701283568/Aster/einstein.png",
-					"image": "https://res.cloudinary.com/db0me9nfi/image/upload/v1701530321/Aster/Einstein_100_any.jpg",
-					"title": "100 anys d'Einstein a Catalunya.",
-					"summary": "Amb motiu de la commemoració del centenari de la visita d'Einstein a Barcelona el febrer de 1923, la Secció de Ciències i Tecnologia (SECCT) .",
-					"widthPhoto": 60 				
-				},
-				{
-					"order": 5,
-					"category": "NOTICIES",
-					"url": "https://www.ccma.cat/324/detecten-larribada-a-la-terra-dun-poderos-raig-cosmic-que-vindria-duna-altra-galaxia/noticia/3262887/",
-					"image": "https://img.ccma.cat/multimedia/jpg/4/6/1700825929764_670x378.jpg",
-					"title": "Detecten l'arribada a la Terra d'un poderós raig còsmic que vindria d'una altra galàxia",
-					"summary": "Li han posat de nom Amaterasu, en honor a la deessa del Sol de la mitologia japonesa i, en seguir-ne la trajectòria, els ha dut a un espai buit més enllà de la Via Làctia.\nEl telescopi Array, situat a Utah, als Estats Units, ha detectat per segon cop a la seva història una partícula extremadament potent i misteriosa que es creu que ha aconseguit arribar a la Terra des de fora de la Via Làctia.",
-					"widthPhoto": 60
-				}
-			]
-		},{
 			"id": -101,
 			"date": "Gener 2024",
 			"widthPhoto": 50,
@@ -69,38 +44,14 @@
 				{
 					"order": 1,
 					"category": "Efemèrides",
-					"url": "#",
-					"image": "https://lh3.googleusercontent.com/u/2/drive-viewer/AK7aPaCyVZDyOc7TnJjyw3KG1slwkWWmeBn9KigBbalM5bozA0lcc99YUCxK86zDRM9I3zfCh0mHt5tj1_atCS-usQR9QsIJ=w1912-h924",
+					"url": "http://drive.google.com/uc?export=view&id=1bkzfyXkgFX1CNxKG_XEEAFZS_Wv2kWAL",
+					"image": "http://drive.google.com/uc?export=view&id=1fnNiqFD7qA--6JdklYPiyeVrRrsyJ2bO",
 					"title": "Gener 2024",
 					"summary": "El proper 3 de gener, la Terra es trobarà a la mínima distància del Sol (periheli). Ens separaran 147 milions de quilòmetres.\nEl proper 18 de gener, la Lluna i Júpiter s'observaran molt pròxims des de la Terra (conjunció); en direcció sud, es trobaran entre les constel·lacions d'Àries i Cetus.",
-					"widthPhoto": 60
+					"widthPhoto": 50
 				}
 				
 			]
-		},
-		{
-			"id": 6,
-			"date": "ABRIL 2024",
-			"widthPhoto": 50,
-			
-			"news": [
-				{
-					"order": 7,
-					"category": "NOTICIES",
-					"url": "https://www.ccma.cat/324/rebut-a-la-terra-per-primer-cop-un-missatge-per-laser-enviat-des-de-mes-enlla-de-la-lluna/noticia/3262398/",
-					
-					"image": "https://img.ccma.cat/multimedia/jpg/8/5/1700656880158_670x378.jpg",
-	
-					"title": "Rebut a la Terra per primer cop un missatge per làser enviat des de més enllà de la Lluna",
-					"summary": "El nou sistema de transmissió de dades assajat per la NASA permetria enviar imatges de més resolució, streaming de vídeo de més qualitat i més dades que ajudaria al gran objectiu de la humanitat: arribar a Mart.\nLa NASA acaba de superar una nova frontera en el camp de les comunicacions humanes: per primera vegada, un missatge transmès amb tecnologia òptica làser ha arribat exitosament a la Terra des de més enllà de la Lluna.",
-					"widthPhoto": 50
-				}
-			]
-		}	
-	
-
-
-
+		}
 	]
-
 }
