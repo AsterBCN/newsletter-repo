@@ -1,19 +1,18 @@
 {
-	"data" :  [
+	"data": [
 		{
-			"id": -200,
-			"date": "SOLSTICI D'HIVERN 2023",
+			"id": 100,
+			"date": "Solstici d'hivern 2023",
 			"widthPhoto": 50,
-			
 			"news": [
 				{
 					"order": 1,
-						"category": "Bones Festes",
-						"url": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
-						"image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
-						"title": "Bones Festes",
-						"summary": "",
-						"widthPhoto": 0		
+					"category": "Bones Festes",
+					"url": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
+					"image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
+					"title": "Bones Festes",
+					"summary": "",
+					"widthPhoto": 0
 				},
 				{
 					"order": 2,
@@ -27,8 +26,8 @@
 				{
 					"order": 3,
 					"category": "Comunicat",
-					"url": "http://drive.google.com/uc?export=view&id=16Upiqv62dWH37Fje08qmapcYyaGwGQLR",
-					"image": "http://drive.google.com/uc?export=view&id=16Upiqv62dWH37Fje08qmapcYyaGwGQLR",
+					"url": "https://lh3.google.com/u/2/d/16Upiqv62dWH37Fje08qmapcYyaGwGQLR=w938-h908-iv1",
+					"image": "https://lh3.google.com/u/2/d/16Upiqv62dWH37Fje08qmapcYyaGwGQLR=w938-h908-iv1",
 					"title": "Calendari d'Aster 2024",
 					"summary": "Benvolguts i benvolgudes! Ja tenim a la vostra disposició el tradicional calendari del proper any 2024, il·lustrat amb fotografies realitzades pels nostres socis i amb els principals esdeveniments astronòmics en cadascun dels dotze mesos al preu de 10€. Podeu sol·licitar-lo per telèfon (934514488) i recollir-lo a la nostra seu del carrer Viladomat 291, 6è pis, de Barcelona, els dimarts i dijous de 19:00 a 21:00. Aprofitem l'ocasió per desitjar-vos felicitat en les properes festes tradicionals. Salutacions i cels clars!",
 					"widthPhoto": 50
@@ -36,31 +35,20 @@
 			]
 		},
 		{
-			"id": -201,
+			"id": -101,
 			"date": "Gener 2024",
 			"widthPhoto": 50,
-			
 			"news": [
 				{
 					"order": 1,
 					"category": "Efemèrides",
-					"url":   "http://drive.google.com/uc?export=view&id=12Q4tLzeio_B53f7v1MJVFrJUPBhebFLQ",
-					"image": "http://drive.google.com/uc?export=view&id=1tKeGpV0Pj6Eb-gzljrc16mU8iJ665yeA",
+					"url": "https://lh3.google.com/u/2/d/1x52sRZstbyGIAjIx6mgm2B9IO-lzP4Ql=w938-h908-iv1",
+					"image": "https://lh3.google.com/u/2/d/1twpQusepw3OKY1bgh-IhHCN_gTJffZig=w938-h908-iv1",
 					"title": "Gener 2024",
 					"summary": "El proper 3 de gener, la Terra es trobarà a la mínima distància del Sol (periheli). Ens separaran 147 milions de quilòmetres.\nEl proper 18 de gener, la Lluna i Júpiter s'observaran molt pròxims des de la Terra (conjunció); en direcció sud, es trobaran entre les constel·lacions d'Àries i Cetus.",
 					"widthPhoto": 50
 				}
-				
 			]
-		},
-		{
-			"order": 1,
-				"category": "Bones Festes",
-				"url": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
-				"image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCboLDLSGHSJXkpqPYyVBM_KvDU6_pd3M2k7aPA7dzEzbwyihC-lqK6yGtDBV8igXdaUlfolGlvLvtYBv4ifKEGlXHB=w1912-h924",
-				"title": "Bones Festes",
-				"summary": "",
-				"widthPhoto": 0		
 		}
 	]
 }
